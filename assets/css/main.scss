@@ -1,0 +1,32 @@
+.container{
+    .row{
+        ul{
+            li{
+                button{
+                    font-size: 14px;
+                    font-weight: 600;
+                    color: black;
+                }
+            }
+        }
+
+        .tab-content{
+            padding: 2rem 1rem;
+            h2{
+                padding: 1rem 0;
+                font-size: 12px;
+                text-align: center;
+            }
+
+            h3{
+                font-size: 12px;
+                font-weight: 600;
+                text-align: center;
+            }
+
+            img{
+                width: 100%;
+            }
+        }
+    }
+}

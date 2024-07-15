@@ -1,0 +1,21 @@
+.container .row ul li button {
+  font-size: 14px;
+  font-weight: 600;
+  color: black;
+}
+.container .row .tab-content {
+  padding: 2rem 1rem;
+}
+.container .row .tab-content h2 {
+  padding: 1rem 0;
+  font-size: 12px;
+  text-align: center;
+}
+.container .row .tab-content h3 {
+  font-size: 12px;
+  font-weight: 600;
+  text-align: center;
+}
+.container .row .tab-content img {
+  width: 100%;
+}/*# sourceMappingURL=main.css.map */
